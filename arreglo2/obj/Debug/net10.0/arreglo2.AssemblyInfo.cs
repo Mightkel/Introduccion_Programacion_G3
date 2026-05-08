@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arreglo2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a072a6f20c628885854c98cb8119499c385fbc3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10d24b6df9034d93101a6defe12f97c7c03aace6")]
 [assembly: System.Reflection.AssemblyProductAttribute("arreglo2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arreglo2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

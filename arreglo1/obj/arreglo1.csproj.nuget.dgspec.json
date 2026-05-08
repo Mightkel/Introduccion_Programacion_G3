@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntroProg\\arreglo1\\arreglo1.csproj": {}
+    "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntrProgG3\\arreglo1\\arreglo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntroProg\\arreglo1\\arreglo1.csproj": {
+    "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntrProgG3\\arreglo1\\arreglo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntroProg\\arreglo1\\arreglo1.csproj",
+        "projectUniqueName": "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntrProgG3\\arreglo1\\arreglo1.csproj",
         "projectName": "arreglo1",
-        "projectPath": "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntroProg\\arreglo1\\arreglo1.csproj",
+        "projectPath": "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntrProgG3\\arreglo1\\arreglo1.csproj",
         "packagesPath": "C:\\Users\\mayke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntroProg\\arreglo1\\obj\\",
+        "outputPath": "C:\\Users\\mayke\\Documents\\Visual Studio Code\\IntrProgG3\\arreglo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mayke\\AppData\\Roaming\\NuGet\\NuGet.Config"
