@@ -1,0 +1,15 @@
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\bin\Debug\net10.0\SumaVectores.exe
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\bin\Debug\net10.0\SumaVectores.deps.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\bin\Debug\net10.0\SumaVectores.runtimeconfig.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\bin\Debug\net10.0\SumaVectores.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\bin\Debug\net10.0\SumaVectores.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\SumaVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\SumaVectores.AssemblyInfoInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\SumaVectores.AssemblyInfo.cs
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\SumaVectores.csproj.CoreCompileInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\SumaVectores.sourcelink.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\SumaVectores.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\refint\SumaVectores.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\SumaVectores.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\SumaVectores.genruntimeconfig.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\SumaVectores\obj\Debug\net10.0\ref\SumaVectores.dll

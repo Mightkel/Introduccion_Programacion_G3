@@ -38,10 +38,10 @@ for (int i = 0; i < vector2.Length; i++)
 }
 for (int i = 0; i < vectorSuma.Length; i++)
 {
-    vectorSuma[i] = vector1[i] + vector2[i];
+    vectorSuma[i] = vector1[i] - vector2[i];
 }
 
-Console.WriteLine("Suma de los vectores:");
+Console.WriteLine("Resta de los vectores:");
 for (int i = 0; i < vectorSuma.Length; i++)
 {
     Console.ForegroundColor=ConsoleColor.DarkBlue;

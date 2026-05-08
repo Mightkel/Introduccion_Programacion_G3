@@ -1,0 +1,15 @@
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\bin\Debug\net10.0\RestaVectores.exe
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\bin\Debug\net10.0\RestaVectores.deps.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\bin\Debug\net10.0\RestaVectores.runtimeconfig.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\bin\Debug\net10.0\RestaVectores.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\bin\Debug\net10.0\RestaVectores.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\RestaVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\RestaVectores.AssemblyInfoInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\RestaVectores.AssemblyInfo.cs
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\RestaVectores.csproj.CoreCompileInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\RestaVectores.sourcelink.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\RestaVectores.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\refint\RestaVectores.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\RestaVectores.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\RestaVectores.genruntimeconfig.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\RestaVectores\obj\Debug\net10.0\ref\RestaVectores.dll

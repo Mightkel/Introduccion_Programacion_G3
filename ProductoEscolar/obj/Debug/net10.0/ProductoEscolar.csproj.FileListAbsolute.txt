@@ -1,0 +1,15 @@
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ProductoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ProductoEscolar.AssemblyInfoInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ProductoEscolar.AssemblyInfo.cs
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ProductoEscolar.csproj.CoreCompileInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ProductoEscolar.sourcelink.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\bin\Debug\net10.0\ProductoEscolar.exe
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\bin\Debug\net10.0\ProductoEscolar.deps.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\bin\Debug\net10.0\ProductoEscolar.runtimeconfig.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\bin\Debug\net10.0\ProductoEscolar.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\bin\Debug\net10.0\ProductoEscolar.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ProductoEscolar.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\refint\ProductoEscolar.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ProductoEscolar.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ProductoEscolar.genruntimeconfig.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\ProductoEscolar\obj\Debug\net10.0\ref\ProductoEscolar.dll
