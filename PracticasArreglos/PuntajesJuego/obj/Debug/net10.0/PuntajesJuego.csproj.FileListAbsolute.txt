@@ -1,0 +1,15 @@
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\PuntajesJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\PuntajesJuego.AssemblyInfoInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\PuntajesJuego.AssemblyInfo.cs
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\PuntajesJuego.csproj.CoreCompileInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\PuntajesJuego.sourcelink.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\bin\Debug\net10.0\PuntajesJuego.exe
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\bin\Debug\net10.0\PuntajesJuego.deps.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\bin\Debug\net10.0\PuntajesJuego.runtimeconfig.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\bin\Debug\net10.0\PuntajesJuego.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\bin\Debug\net10.0\PuntajesJuego.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\PuntajesJuego.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\refint\PuntajesJuego.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\PuntajesJuego.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\PuntajesJuego.genruntimeconfig.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\PuntajesJuego\obj\Debug\net10.0\ref\PuntajesJuego.dll

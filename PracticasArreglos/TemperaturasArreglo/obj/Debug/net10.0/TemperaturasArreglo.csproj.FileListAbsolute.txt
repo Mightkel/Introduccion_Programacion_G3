@@ -1,0 +1,15 @@
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\bin\Debug\net10.0\TemperaturasArreglo.exe
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\bin\Debug\net10.0\TemperaturasArreglo.deps.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\bin\Debug\net10.0\TemperaturasArreglo.runtimeconfig.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\bin\Debug\net10.0\TemperaturasArreglo.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\bin\Debug\net10.0\TemperaturasArreglo.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\TemperaturasArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\TemperaturasArreglo.AssemblyInfoInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\TemperaturasArreglo.AssemblyInfo.cs
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\TemperaturasArreglo.csproj.CoreCompileInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\TemperaturasArreglo.sourcelink.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\TemperaturasArreglo.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\refint\TemperaturasArreglo.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\TemperaturasArreglo.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\TemperaturasArreglo.genruntimeconfig.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\TemperaturasArreglo\obj\Debug\net10.0\ref\TemperaturasArreglo.dll

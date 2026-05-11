@@ -1,0 +1,15 @@
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\bin\Debug\net10.0\VentasTienda.exe
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\bin\Debug\net10.0\VentasTienda.deps.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\bin\Debug\net10.0\VentasTienda.runtimeconfig.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\bin\Debug\net10.0\VentasTienda.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\bin\Debug\net10.0\VentasTienda.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\VentasTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\VentasTienda.AssemblyInfoInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\VentasTienda.AssemblyInfo.cs
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\VentasTienda.csproj.CoreCompileInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\VentasTienda.sourcelink.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\VentasTienda.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\refint\VentasTienda.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\VentasTienda.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\VentasTienda.genruntimeconfig.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\VentasTienda\obj\Debug\net10.0\ref\VentasTienda.dll
