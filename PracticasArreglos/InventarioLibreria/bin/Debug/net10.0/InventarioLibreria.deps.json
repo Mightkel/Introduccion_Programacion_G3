@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "InventarioLibreria/1.0.0": {
+        "runtime": {
+          "InventarioLibreria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InventarioLibreria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

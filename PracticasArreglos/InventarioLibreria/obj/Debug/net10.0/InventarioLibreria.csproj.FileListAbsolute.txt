@@ -1,0 +1,15 @@
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.exe
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.deps.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.runtimeconfig.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.AssemblyInfoInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.AssemblyInfo.cs
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.csproj.CoreCompileInputs.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.sourcelink.json
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\refint\InventarioLibreria.dll
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.pdb
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.genruntimeconfig.cache
+C:\Users\mayke\Documents\Visual Studio Code\IntrProgG3\PracticasArreglos\InventarioLibreria\obj\Debug\net10.0\ref\InventarioLibreria.dll
