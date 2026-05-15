@@ -15,15 +15,21 @@ for (int f = 0; f < 3; f++)
 {
     for (int c = 0; c < 3; c++)
     {
-        if (matriz[f,c] % 2 == 0)
+        if (matriz[f,c] % 2 == 0  && matriz[f,c] >= 0)
         {
             Console.ForegroundColor=ConsoleColor.DarkGreen;
             Console.Write($"{matriz[f,c]} ");
             Console.ResetColor();
         }
-        else
+        else if(matriz[f, c] % 2 != 0 && matriz[f,c] >= 0)
         {
             Console.ForegroundColor=ConsoleColor.DarkRed;
+            Console.Write($"{matriz[f, c]} ");
+            Console.ResetColor();
+        }
+        else if (matriz[f, c] < 0)
+        {
+            Console.ForegroundColor=ConsoleColor.DarkYellow;
             Console.Write($"{matriz[f, c]} ");
             Console.ResetColor();
         }
